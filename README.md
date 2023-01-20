@@ -4,4 +4,4 @@
 2. Skapa en README fil i ett repository som har mitt användarnamn där jag ska presentera mig själv. 
 3. besvara frågan: Hur man klonar mitt repository ner till datorn. 
 *Svaret på frågan är att det går att göra genom knappen clone or download i github, ta länken och skriva in kommandot git clone och länken*
-**Länken till uppgift 2.2 är github.com/mifr2204/**
+**Länken till uppgift 2.2 är github.com/mifr2204/mittuniversitetet**
